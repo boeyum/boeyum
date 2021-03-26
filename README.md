@@ -8,4 +8,4 @@ Since I retired, I have developed my own apps for Android, for Garmin training w
 My interests revolve around digital archives based on the Web Service interface, smart homes and training apps.
 
 ## Contact information
-eMail.: Jan-Ivar@boyum.priv.nohttps://github.com/boeyum/boeyum
+https://github.com/boeyum/boeyum
